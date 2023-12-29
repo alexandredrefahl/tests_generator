@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Gerador_de_Prova", "Gerador_de_Prova.vbproj", "{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Debug|x64.ActiveCfg = Debug|x64
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Debug|x64.Build.0 = Debug|x64
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Debug|x86.ActiveCfg = Debug|x86
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Debug|x86.Build.0 = Debug|x86
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Release|x64.ActiveCfg = Release|x64
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Release|x64.Build.0 = Release|x64
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Release|x86.ActiveCfg = Release|x86
+		{1E7C498E-4D92-4E1F-8BF4-DE3EDB4E4041}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89DB967B-BC2E-4149-85C9-F64B61DC12C6}
+	EndGlobalSection
+EndGlobal
