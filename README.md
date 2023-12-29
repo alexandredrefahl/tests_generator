@@ -8,4 +8,4 @@ The questions **can be classified by knowledge area**, and **difficulty level**.
 
 When composing the test user can set how many questions of whitch area and the difficulty level.
 
-The output of this program is a **ODF** (LibreOffice Open Document File) file with **formated questions** in which the last page contains the **test answer key**.
+The output of this program is a **DOCX** (MS Word File) file with **formated questions** in which the last page contains the **test answer key**.
